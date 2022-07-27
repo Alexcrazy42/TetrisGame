@@ -1,4 +1,4 @@
-# -TetrisGame
+# TetrisGame
 
 Маленькая игра "Тетрис", написанная под браузер на языке JavaScript.
 
